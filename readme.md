@@ -6,7 +6,7 @@
 
 * [Diccionarios todos](https://github.com/jucardus/repo/tree/main/diccionarios)
   * [Abreviaturas](https://github.com/jucardus/repo/tree/main/diccionarios/abreviaturas)
-    * Categorías
+    * [Categorías](https://github.com/jucardus/repo/tree/main/diccionarios/abreviaturas/categorias)
     * Etiquetas
     * Símbolos
   * Chino-español
