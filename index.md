@@ -41,7 +41,4 @@
 
 ### Actividad reciente
 
-* uno
-* dos
-* tres
-* ...
+* Actualización de [Mis sitios](https://github.com/jucardus/repo/blob/main/index.md#mis-sitios).
