@@ -6,6 +6,9 @@
 
 * Diccionarios todos
   * Abreviaturas
+    * Categorías
+    * Etiquetas
+    * Símbolos
   * Chino-español
   * Inglés-español
   * Multilingüe
@@ -28,13 +31,13 @@
 
 ### Mis sitios
 
-* Diccionarios
-* Enlaces
-* Facebook
-* Fotografías
-* Invitación a pCloud
-* Música clásica
-* X Twitter
+* Diccionarios - [d.jucardus.com](https://d.jucardus.com)
+* Enlaces - [e.jucardus.com](https://e.jucardus.com)
+* Facebook - [fb.jucardus.com](https://fb.jucardus.com)
+* Fotografías - [f.jucardus.com](https://f.jucardus.com)
+* Invitación a pCloud - [i.jucardus.com](https://i.jucardus.com)
+* Música clásica - [m.jucardus.com](https://m.jucardus.com)
+* X Twitter - [x.jucardus.com](https://x.jucardus.com)
 
 ### Actividad reciente
 
