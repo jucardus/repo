@@ -20,7 +20,7 @@
 * Escritos varios
   * Apotegmas
   * Citas
-  * Cuentas
+  * Cuentos
   * Humor
   * Poemas
   * Reflexiones
