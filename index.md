@@ -1,7 +1,14 @@
 # Repo Jucardus
 
-* Punto uno
-* Punto dos
+* Escritos
+  * Apotegmas
+  * Citas
+  * Cuentas
+  * Poemas
+  * Reflexiones
+* Frases
+  * Frases chinas
+  * Frases latinas
 * Punto tres
 * ...
 
