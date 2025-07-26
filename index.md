@@ -4,9 +4,6 @@
 
 * Diccionarios todos
  * Abreviaturas
-   * Categorías
-   * Etiquetas
-   * Símbolos
  * Chino-español
  * Inglés-español
  * Multilingüe
