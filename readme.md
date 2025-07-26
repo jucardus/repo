@@ -13,6 +13,7 @@
   * Inglés-español
   * Multilingüe
   * Nombres bíblicos
+* Vocabularios
   * Vocabulario español
   * Vocabulario francés-español
   * Vocabulario inglés-español
