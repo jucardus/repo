@@ -4,8 +4,8 @@
 
 ### Índice general
 
-* Diccionarios todos
-  * Abreviaturas
+* [Diccionarios todos](https://github.com/jucardus/repo/tree/main/diccionarios)
+  * [Abreviaturas](https://github.com/jucardus/repo/tree/main/diccionarios/abreviaturas)
     * Categorías
     * Etiquetas
     * Símbolos
