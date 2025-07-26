@@ -2,6 +2,8 @@
 
 [ en construcción ]
 
+### Índice general
+
 * Diccionarios todos
   * Abreviaturas
   * Chino-español
@@ -23,3 +25,20 @@
   * Frases chinas
   * Frases latinas
 * Música
+
+### Mis sitios
+
+* Diccionarios
+* Enlaces
+* Facebook
+* Fotografías
+* Invitación a pCloud
+* Música clásica
+* X Twitter
+
+### Actividad reciente
+
+* uno
+* dos
+* tres
+* ...
