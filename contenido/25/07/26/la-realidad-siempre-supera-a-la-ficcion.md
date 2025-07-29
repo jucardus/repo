@@ -1,3 +1,0 @@
-# La realidad siempre supera a la ficción...
-
-La realidad siempre supera a la ficción, de modo que si estás aburrido es probable que alguien te haya cerrado los ojos o que los hayas cerrado tú mismo.
